@@ -15,7 +15,7 @@ cd CPP-module-42
 - `make fclean` to remove executable files. <br>
 - `make re` to recompile this project.<br>
 
-## What these "days" are about
+## What these modules (days) are about
 - **Day00**
 	- std::cout
 	- writing you first class - phonebook
